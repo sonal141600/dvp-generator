@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ SpecSync — DVP Test Plan Generator
 
 > Automatically generate Design Validation Plan (DVP) Test Plans from automotive RFQ engineering drawings using AI.
@@ -223,3 +224,7 @@ MIT License — feel free to use and modify.
 ## 👤 Author
 
 Built as a portfolio project to demonstrate real-world AI automation in the automotive supplier industry.
+=======
+# dvp-generator
+AI-powered DVP Test Plan generator for automotive suppliers — reads engineering drawings via OCR, extracts test standards, checks availability, and outputs formatted Excel reports.
+>>>>>>> 4c7ece61c20ece0029130416807936e654c0560e
