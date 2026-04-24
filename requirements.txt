@@ -1,0 +1,8 @@
+anthropic
+flask
+python-dotenv
+pillow
+openpyxl
+pdfplumber
+pdf2image
+google-cloud-vision

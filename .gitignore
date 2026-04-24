@@ -1,0 +1,14 @@
+.env
+rfq_vision_key.json
+google_vision_key.json
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+rfq_inputs/
+customer_profiles/
+*.xlsx
+*.json
+.DS_Store
+standards_library/
