@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚡ SpecSync — DVP Test Plan Generator
 
 > Automatically generate Design Validation Plan (DVP) Test Plans from automotive RFQ engineering drawings using AI.
